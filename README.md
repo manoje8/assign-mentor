@@ -16,7 +16,7 @@ Mentor-Student API Management to manage the mentors, students, and their assignm
 	 * GET `/previous-mentor/:studentId`
 
 ## Render Deployment
-Website URL: [mentor-student Assignment]()
+Website URL: [mentor-student Assignment](https://assign-mentor-mbpz.onrender.com/)
 
 ## API Documentation
 [Click here to view API Documentation](https://documenter.getpostman.com/view/35311314/2sA3QwdVuX)
@@ -25,9 +25,8 @@ Website URL: [mentor-student Assignment]()
 
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/manoje8/assign-mentor.git
 
-cd your-repo-name
 ```
 
 2. Install dependencies:
